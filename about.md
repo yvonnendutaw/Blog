@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Get to know me!
 
-### More Information
+### Basics
 
-A place to include any other types of information that you'd like to include about yourself.
+Hi Internet! Well, I am Yvonne and I am techy. I will be writing mostly about any current trends in tech.
+I will also inform you on ways about many things in tech! Tech is exciting!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yvonnendutaw@gmail.com](mailto:yvonnendutaw@gmail.com)
