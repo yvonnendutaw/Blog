@@ -3,6 +3,7 @@ layout: post
 title: Scrum
 ---
 
+
 ![Image of scrum header](https://svensuniverse.files.wordpress.com/2012/11/scrum_is_done.png)
 
 
