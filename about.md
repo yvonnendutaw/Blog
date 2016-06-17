@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Get to know me!
+## Get to know me!
 
-### Basics
 
-Hi Internet! Well, I am Yvonne and I am techy. I will be writing mostly about any current trends in tech.
-I will also inform you on ways about many things in tech! Tech is exciting!
+Hi there, 
+
+Well I am tech enthusiast. I love code and coffee! These two work best together. Okay.. to the serious stuff. I am a software developer whose passionate about new technologies and new and better ways of doing things.
+
 
 ### Contact me
 
