@@ -1,5 +1,7 @@
-# contactform
-This repo defines the steps taken in creating a working contact form using javascript validation.
+---
+layout: post
+title: Contact Form
+---
 
 How does a web form work?
 
